@@ -1,0 +1,181 @@
+{
+  "itemGroup.seasonsgreetings.tab": "Boas Festas",
+
+  "advancements.adventure.gumdrop_buttons.title": "O Homem Bolinho",
+  "advancements.adventure.gumdrop_buttons.description": "Não meus Botões de Jujuba!",
+
+  "block.seasonsgreetings.icicle": "Espinho de Gelo",
+
+  "block.seasonsgreetings.wreath": "Guirlanda",
+  "block.seasonsgreetings.white_lights": "Pisca-Pisca Branco",
+  "block.seasonsgreetings.red_lights": "Pisca-Pisca Vermelho",
+  "block.seasonsgreetings.orange_lights": "Pisca-Pisca Laranja",
+  "block.seasonsgreetings.yellow_lights": "Pisca-Pisca Amarelo",
+  "block.seasonsgreetings.green_lights": "Pisca-Pisca Verde",
+  "block.seasonsgreetings.blue_lights": "Pisca-Pisca Azul",
+  "block.seasonsgreetings.purple_lights": "Pisca-Pisca Roxo",
+  "block.seasonsgreetings.multicolor_lights": "Pisca-Pisca Multicolorido",
+
+  "block.seasonsgreetings.white_gift_box": "Presente Branco",
+  "block.seasonsgreetings.light_gray_gift_box": "Presente Cinza-Claro",
+  "block.seasonsgreetings.gray_gift_box": "Presente Cinza",
+  "block.seasonsgreetings.black_gift_box": "Presente Preto",
+  "block.seasonsgreetings.brown_gift_box": "Presente Marrom",
+  "block.seasonsgreetings.red_gift_box": "Presente Vermelho",
+  "block.seasonsgreetings.orange_gift_box": "Presente Laranja",
+  "block.seasonsgreetings.yellow_gift_box": "Presente Amarelo",
+  "block.seasonsgreetings.lime_gift_box": "Presente Verde-Lima",
+  "block.seasonsgreetings.green_gift_box": "Presente Verde",
+  "block.seasonsgreetings.cyan_gift_box": "Presente Ciano",
+  "block.seasonsgreetings.light_blue_gift_box": "Presente Azul-Claro",
+  "block.seasonsgreetings.blue_gift_box": "Presente Azul",
+  "block.seasonsgreetings.purple_gift_box": "Presente Roxo",
+  "block.seasonsgreetings.magenta_gift_box": "Presente Magenta",
+  "block.seasonsgreetings.pink_gift_box": "Presente Rosa",
+
+  "block.seasonsgreetings.icing": "Glacê",
+  "block.seasonsgreetings.icing_block": "Bloco de Glacê",
+  "block.seasonsgreetings.icing_stairs": "Escadas de Glacê",
+  "block.seasonsgreetings.icing_slab": "Laje de Glacê",
+
+  "block.seasonsgreetings.red_gumdrop_button": "Botão de Jujuba Vermelho",
+  "block.seasonsgreetings.red_gumdrop_block": "Bloco de Jujuba Vermelho",
+  "block.seasonsgreetings.orange_gumdrop_button": "Botão de Jujuba Laranja",
+  "block.seasonsgreetings.orange_gumdrop_block": "Bloco de Jujuba Laranja",
+  "block.seasonsgreetings.yellow_gumdrop_button": "Botão de Jujuba Amarelo",
+  "block.seasonsgreetings.yellow_gumdrop_block": "Bloco de Jujuba Amarelo",
+  "block.seasonsgreetings.green_gumdrop_button": "Botão de Jujuba Verde",
+  "block.seasonsgreetings.green_gumdrop_block": "Bloco de Jujuba Verde",
+  "block.seasonsgreetings.purple_gumdrop_button": "Botão de Jujuba Roxo",
+  "block.seasonsgreetings.purple_gumdrop_block": "Bloco de Jujuba Roxo",
+
+  "block.seasonsgreetings.packed_snow": "Neve Compacta",
+    "block.seasonsgreetings.snow_bricks": "Tijolos de Neve",
+    "block.seasonsgreetings.snow_brick_stairs": "Escadas de Tijolos de Neve",
+    "block.seasonsgreetings.snow_brick_slab": "Laje de Tijolos de Neve",
+  "block.seasonsgreetings.chiseled_snow": "Neve Talhada",
+
+  "block.seasonsgreetings.peppermint_block": "Bloco de Menta",
+  "block.seasonsgreetings.peppermint_stairs": "Escadas de Menta",
+  "block.seasonsgreetings.peppermint_slab": "Laje de Menta",
+
+  "block.seasonsgreetings.chocolate_block": "Bloco de Chocolate",
+  "block.seasonsgreetings.chocolate_stairs": "Escadas de Chocolate",
+  "block.seasonsgreetings.chocolate_slab": "Laje de Chocolate",
+
+  "block.seasonsgreetings.gingerbread_door": "Porta de Gengibre",
+  "block.seasonsgreetings.gingerbread_trapdoor": "Alçapão de Gengibre",
+  "block.seasonsgreetings.gingerbread_block": "Bloco de Gengibre",
+  "block.seasonsgreetings.gingerbread_stairs": "Escadas de Gengibre",
+  "block.seasonsgreetings.gingerbread_slab": "Laje de Gengibre",
+  "block.seasonsgreetings.gingerbread_bricks": "Tijolos de Gengibre",
+  "block.seasonsgreetings.gingerbread_brick_stairs": "Escadas de Tijolos de Gengibre",
+  "block.seasonsgreetings.gingerbread_brick_slab": "Laje de Tijolos de Gengibre",
+  "block.seasonsgreetings.gingerbread_shingles": "Telhas de Gengibre",
+  "block.seasonsgreetings.gingerbread_shingle_stairs": "Escadas de Telhas de Gengibre",
+  "block.seasonsgreetings.gingerbread_shingle_slab": "Laje de Telhas de Gengibre",
+
+  "container.giftBox": "Presente",
+
+  "effect.seasonsgreetings.cozy": "Confortável",
+
+  "entity.seasonsgreetings.gingerbread_man": "Boneco de Gengibre",
+
+  "block.seasonsgreetings.hot_cocoa_cauldron": "Caldeirão de Chocolate Quente",
+  "block.seasons_greetings.warm_milk_cauldron.bucket": "Você não pode pegar Leite Quente com um Balde. Tente esfriá-lo primeiro.",
+  "block.seasons_greetings.warm_milk_cauldron.bottle": "Você não pode pegar Leite com um Frasco. Tente esquentá-lo primeiro.",
+
+  "block.seasons_greetings.hot_cocoa_cauldron.too_cold": "O Chocolate não está quente o suficiente. Tente esquentá-lo primeiro",
+
+  "item.dyeable": "Tingível",
+  "item.seasonsgreetings.chocolate": "Barra de Chocolate",
+  "item.seasonsgreetings.christmas_hat": "Chapéu Natalino",
+  "item.seasonsgreetings.fruitcake": "Panetone",
+  "item.seasonsgreetings.gingerbread_cookie": "Biscoito de Gengibre",
+  "item.seasonsgreetings.gingerbread_man": "Boneco de Gengibre",
+  "item.seasonsgreetings.broken_gingerbread_man": "Boneco de Gengibre Quebrado",
+  "item.seasonsgreetings.gingerbread_crumbs": "Pedaços de Gengibre",
+  "item.seasonsgreetings.gingerbread_man_spawn_egg": "Ovo Gerador de Boneco de Gengibre",
+  "item.seasonsgreetings.hot_cocoa": "Chocolate Quente",
+  "item.seasonsgreetings.hot_cocoa_bucket": "Balde de Chocolate Quente",
+  "item.seasonsgreetings.warm_milk": "Leite Quente",
+  "item.seasonsgreetings.eggnog": "Gemada",
+  "item.seasonsgreetings.eggnog_bucket": "Balde de Gemada",
+
+  "painting.seasonsgreetings.revontulet.title": "Revontulet",
+  "painting.seasonsgreetings.revontulet.author": "crispytwig",
+
+  "tooltip.seasons_greetings.bow": "Arco",
+
+  "subtitles.seasonsgreetings.block.milk_cauldron.bubble": "Leite Quente borbulha",
+  "subtitles.seasonsgreetings.block.cocoa_cauldron.bubble": "Chocolate Quente borbulha",
+
+  "subtitles.seasonsgreetings.block.gift_box.open": "Presente abre",
+  "subtitles.seasonsgreetings.block.gift_box.close": "Presente fecha",
+
+  "subtitles.seasonsgreetings.item.warm_milk.drink": "Bebendo",
+
+  "subtitles.seasonsgreetings.entity.gingerbread_man.hurt": "Boneco de Gengibre se machuca",
+  "subtitles.seasonsgreetings.entity.snowball.hit": "Bola de Neve atinge",
+  "subtitles.seasonsgreetings.entity.generic.drink": "Bebendo",
+
+
+  "seasonsgreetings.midnightconfig.title": "Configurações de Season's Greetings",
+  "seasonsgreetings.midnightconfig.category.main": "Principal",
+  "seasonsgreetings.midnightconfig.category.content_toggles": "Opções de Conteúdo",
+
+  "seasonsgreetings.midnightconfig.itemsMisc": "§9Itens e Outros",
+  "seasonsgreetings.midnightconfig.snowGolems": "§9Golems de Neve",
+
+  "seasonsgreetings.midnightconfig.warningPings": "§c§l§o[!] §7Texto de Aviso",
+  "seasonsgreetings.midnightconfig.warningPings.tooltip": "§8§o[?]§7§o Se Caldeirões e outros blocos tocam textos de aviso por uso incorreto.",
+
+  "seasonsgreetings.midnightconfig.calmerWarnings": "§Aviso calmo",
+  "seasonsgreetings.midnightconfig.calmerWarnings.tooltip": "§8§o[?]§7§o Remove os sons, formatação e símbolos das mensagens de aviso do caldeirão.",
+
+  "seasonsgreetings.midnightconfig.eggnogEffects": "§7Efeitos da Gemada",
+  "seasonsgreetings.midnightconfig.eggnogEffects.tooltip": "§8§o[?]§7§o Se a Gemada deve dar qualquer efeito.",
+  "seasonsgreetings.midnightconfig.negativeEggnogEffects": "§7Efeitos Negativos da Gemada",
+  "seasonsgreetings.midnightconfig.negativeEggnogEffects.tooltip": "§8§o[?]§7§o Se a Gemada deve dar Fraqueza. Mantém Força.",
+
+  "seasonsgreetings.midnightconfig.crazyGingerbreadMen": "§7Biscoito → Geração de Bonecos de Gengibre",
+  "seasonsgreetings.midnightconfig.crazyGingerbreadMen.tooltip": "§8§o[?]§7§o Se Bonecos de Gengibre devem gerar de um Biscoito de Gengibre sendo assado.",
+  "seasonsgreetings.midnightconfig.gingerbreadManCopyBreak": "§7Bonecos de Gengibre miram no bloco que seu dono quebra",
+  "seasonsgreetings.midnightconfig.gingerbreadManCopyBreak.tooltip": "§8§o[?]§7§o Se Bonecos de Gengibre devem mirar no bloco que seu dono estiver quebrando caso tenham uma ferramenta válida.",
+
+  "seasonsgreetings.midnightconfig.snowGolemsEquippable": "§7Golens de Neve podem ser equipados com acessórios",
+  "seasonsgreetings.midnightconfig.snowGolemsEquippable.tooltip": "§8§o[?]§7§o Se Golens de Neve podem ser equipados com chapéus, cachecóis, narizes, etc..",
+  "seasonsgreetings.midnightconfig.snowGolemItemHats": "§7Golens de Neve podem ter itens na cabeça",
+  "seasonsgreetings.midnightconfig.snowGolemItemHats.tooltip": "§8§o[?]§7§o Se Golens de Neve podem ter itens colocados na cabeça - não apenas blocos.",
+  "seasonsgreetings.midnightconfig.stationarySnowGolems": "§7Golem de Neve parado quando clicado",
+  "seasonsgreetings.midnightconfig.stationarySnowGolems.tooltip": "§8§o[?]§7§o Se Golens de Neve podem 'sentar' clicando-direito neles.",
+  "seasonsgreetings.midnightconfig.meltedSnowGolems": "§7Golens de Neve podem ser 'derretidos' com uma Pederneira",
+  "seasonsgreetings.midnightconfig.meltedSnowGolems.tooltip": "§8§o[?]§7§o Se Golens de Neve podem ser 'derretidos' para impedí-los de deixar rastros de neve.",
+
+
+  "seasonsgreetings.midnightconfig.configReload": "§c§l[!] §7§oAlterar uma das próximas opções tornará necessário §c§l§oreiniciar seu mundo§7§o para aplicar o efeito.",
+
+  "seasonsgreetings.midnightconfig.witchHouse": "§7Permitir Casa de Bruxa",
+  "seasonsgreetings.midnightconfig.witchHouse.tooltip": "§8§o[?]§7§o Se §c§o'Não'§7§o, Casas de Bruxas não vão aparecer no mundo.",
+
+  "seasonsgreetings.midnightconfig.gingerbreadBlocks": "§7Permitir Blocos de Gengibre",
+  "seasonsgreetings.midnightconfig.gingerbreadBlocks.tooltip": "§8§o[?]§7§o Se §c§o'Não'§7§o, entradas no menu de criativo e Receitas serão removidos.",
+  "seasonsgreetings.midnightconfig.stringLights": "§7Permitir Pisca-Pisca",
+  "seasonsgreetings.midnightconfig.stringLights.tooltip": "§8§o[?]§7§o Se §c§o'Não'§7§o, entradas no menu de criativo e Receitas serão removidos.",
+  "seasonsgreetings.midnightconfig.snowBlocks": "§7Permitir Blocos de Neve",
+  "seasonsgreetings.midnightconfig.snowBlocks.tooltip": "§8§o[?]§7§o Se §c§o'Não'§7§o, entradas no menu de criativo e Receitas serão removidos.",
+  "seasonsgreetings.midnightconfig.wreathBlock": "§7Permitir Bloco de Guirlanda",
+  "seasonsgreetings.midnightconfig.wreathBlock.tooltip": "§8§o[?]§7§o Se §c§o'Não'§7§o, entradas no menu de criativo e Receitas serão removidos.",
+  "seasonsgreetings.midnightconfig.icicle": "§7Permitir Espinhos de Gelo",
+  "seasonsgreetings.midnightconfig.icicle.tooltip": "§8§o[?]§7§o Se §c§o'Não'§7§o, entradas no menu de criativo e Receitas serão removidos.",
+  "seasonsgreetings.midnightconfig.peppermint": "§7Permitir Menta",
+  "seasonsgreetings.midnightconfig.peppermint.tooltip": "§8§o[?]§7§o Se §c§o'Não'§7§o, entradas no menu de criativo e Receitas serão removidos.",
+  "seasonsgreetings.midnightconfig.chocolate": "§7Permitir Chocolate",
+  "seasonsgreetings.midnightconfig.chocolate.tooltip": "§8§o[?]§7§o Se §c§o'Não'§7§o, entradas no menu de criativo e Receitas serão removidos.",
+  "seasonsgreetings.midnightconfig.icing": "§7Permitir Glacê",
+  "seasonsgreetings.midnightconfig.icing.tooltip": "§8§o[?]§7§o Se §c§o'Não'§7§o, entradas no menu de criativo e Receitas serão removidos.",
+  "seasonsgreetings.midnightconfig.gumdrops": "§7Permitir Jujubas",
+  "seasonsgreetings.midnightconfig.gumdrops.tooltip": "§8§o[?]§7§o Se §c§o'Não'§7§o, entradas no menu de criativo e Receitas serão removidos.",
+  "seasonsgreetings.midnightconfig.gifts": "§7Permitir Presentes",
+  "seasonsgreetings.midnightconfig.gifts.tooltip": "§8§o[?]§7§o Se §c§o'Não'§7§o, entradas no menu de criativo e Receitas serão removidos."
+}
